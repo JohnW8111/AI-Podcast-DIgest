@@ -5,7 +5,7 @@ import re
 import shutil
 from openai import OpenAI
 from youtube_transcript_api import YouTubeTranscriptApi
-
+#this is just a place holder for now
 openai.api_key = os.environ['OPENAI_API_KEY']
 client = OpenAI()
 
