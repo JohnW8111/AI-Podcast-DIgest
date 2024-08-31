@@ -1,3 +1,115 @@
+# Podcast Summaries Table of Contents
+
+1. **Latent Space: The Winds of AI Winter (Q2 Four Wars of the AI Stack Recap)**
+   A discussion on the latest developments in AI, focusing on sovereign AI and its global impact. The hosts explore the four frameworks of AI development and the emergence of Claude as a leading frontier model.
+
+2. **Latent Space: Segment Anything 2: Memory + Vision = Object Permanence**
+   An exploration of "Segment Anything 2" (Sam 2) in the field of AI and computer vision. The episode delves into the transformative capabilities of Sam in computer vision, including its ability to perform "zero-shot" segmentation.
+
+3. **Latent Space: Answer.ai & AI Magic with Jeremy Howard**
+   Jeremy Howard shares insights on various AI topics, including fine-tuning models and the need for a paradigm shift in AI governance. The discussion reflects on recent developments in pre-training and the role of multiphase training.
+
+4. **Latent Space: Is finetuning GPT4o worth it?**
+   A conversation with Ali Pen, co-founder of Cosign and developer of Genie, an AI-driven tool for software engineering. The episode focuses on the innovative approach to AI in coding and the development of Genie.
+
+5. **Latent Space: Personal benchmarks vs HumanEval - with Nicholas Carlini of DeepMind**
+   Nicholas Carlini discusses crucial intersections of machine learning, computer security, and AI application. The conversation explores motivating factors for writing about AI and the utility and limitations of language models (LLMs).
+
+6. **The Cognitive Revolution: AI Avatars & the Future of Video**
+   A discussion on the transformative potential of AI-powered video creation with Joshua Shu of Haen. The episode explores the innovative applications of video generation for marketing, localization, and personalization.
+
+7. **The Cognitive Revolution: Self-Driving Cars: Timothy B. Lee Answers All the Questions**
+   Timothy B. Lee provides insights into the state-of-the-art in self-driving technology and various deployment strategies. The discussion explores the capabilities of companies like Waymo and Tesla, emphasizing their differing approaches to hardware stacks and data acquisition.
+
+8. **The Cognitive Revolution: AI Consciousness? Exploring the Possibility with Prof. Eric Schwitzgebel**
+   An exploration of consciousness in artificial intelligence with Professor Eric Schwitz Gabele. The episode encourages humility and careful exploration of the moral implications of potentially conscious AI systems.
+
+9. **The Cognitive Revolution: Understanding AI "Understanding" with Robert Wright**
+   Robert Wright discusses the development, capabilities, and risks of artificial intelligence. The conversation encompasses topics such as large language models, multimodal AI systems, and AI reasoning abilities.
+
+10. **The Cognitive Revolution: Popular Mechanistic Interpretability: Goodfire Lights the Way to AI Safety**
+    Dan Balam and Tom McGrath, co-founders of Goodfire, discuss mechanistic interpretability of AI models. The episode explores recent advancements, including sparse autoencoders, which provide new avenues for dissecting AI behaviors.
+
+11. **The Cognitive Revolution: AI Work for You - now with GPT-4o Fine-Tuning!**
+    Nathan Labenz presents a comprehensive guide to AI automation, focusing on implementing AI in businesses. The talk is structured around foundational concepts, a three-step method for AI automation, and additional considerations for implementation.
+
+12. **The Cognitive Revolution: Final Analysis on CA's AI Bill SB 1047**
+    A discussion on California's controversial AI Bill SB 1047, also known as the Safe and Secure Innovation for Frontier Artificial Intelligence Models Act. The episode explores various perspectives on the bill, debating the balance between regulation and innovation in AI.
+
+13. **The Cognitive Revolution: Scaling Forecasting: AI Forecasting Tournaments & Road to Epistemic Security**
+    Deger Turan, CEO of Metaculus, discusses the transformative potential of forecasting, especially in the context of artificial intelligence. The conversation delves into recent advancements in AI-assisted forecasting and introduces Metaculus's ambitious AI forecasting Benchmark tournament.
+
+14. **The Cognitive Revolution: Computational Life: How Self-Replicators Arise from Randomness**
+    Google researchers Atori Randazzo and Luca Versari discuss their paper on how self-replicating programs can emerge in a minimalistic computational environment. The conversation explores both their esoteric findings and the broader implications for AI development and safety.
+
+15. **High Agency: Building Reliable AI Agents with Cai GoGwilt CTO of Ironclad**
+    Cai GoGwilt discusses the integration of generative AI into contract management and negotiations. The episode forecasts a future where legal processes could be dominated by AI-generated content.
+
+16. **High Agency: Lessons from Hex's Journey building AI Agents for Data Science**
+    Brian Bishoff shares insights on his experiences developing AI agents within data science workflows. The discussion centers around the challenges and strategies in deploying AI agents into production environments.
+
+17. **High Agency: Building the most popular OSS coding assistant with Beyang Liu CTO of @Sourcegraph**
+    Beyang Liu discusses the changing landscape of software engineering due to advancements in artificial intelligence. The conversation focuses on how tools like Cody can enhance productivity and handle complexities in legacy codebases.
+
+18. **High Agency: AI's Memory Upgrade: Max Rumpf on how to build advanced RAG systems**
+    Max Rump discusses how his company, Sid, is revolutionizing the utilization of AI in real-time tasks by ensuring comprehensive access to pertinent information. The episode centers around how Sid simplifies complex processes for users in retrieval-augmented generation (RAG) systems.
+
+19. **High Agency: What comes after OpenAI: Logan Kilpatrick on how you should prepare for the future of LLMs**
+    Logan Killpatrick discusses the transformative potential of AI, the importance of fine-tuning models, and the evolving landscape of developer-led innovation in AI applications. He provides insights into what makes AI companies successful and why it's essential to embrace bold bets on AI technologies.
+
+20. **High Agency: Contrarian Guide to AI: Jason Liu on Betting Against Agents while Doubling Down on RAG & Fine-Tuning**
+    Jason Luk discusses how AI applications should be approached similarly to traditional software, emphasizing quality and user outcomes. The conversation critically analyzes the distinction between traditional software practices and the unique challenges posed by AI and machine learning systems.
+
+21. **High Agency: Building the first LLM-based search engine for developers with Michael Royzen**
+    Michael Royzen discusses Find, the first answer engine to leverage large language models (LLMs) for developers. The conversation delves into robust insights regarding automated coding assistance and the evolving landscape of AI tools for developers.
+
+22. **High Agency: Building AI Products at Scale: Lessons from Zapier's CEO**
+    Wade Foster discusses the important role of artificial intelligence in enhancing and transforming business processes at Zapier. The conversation ventures into the nuts and bolts of how Zapier has integrated AI into its services and products.
+
+23. **High Agency: AI's Memory Upgrade: Max Rumpf on how to build advanced RAG systems**
+    Max Rump discusses how his company, Sid, is revolutionizing the utilization of AI in real-time tasks through innovative information retrieval techniques. The conversation centers around how Sid is simplifying complex processes for users in retrieval-augmented generation (RAG) systems.
+
+24. **High Agency: From PyTorch to Fireworks: Lin Qiao on Building AI Infrastructure**
+    Lin Qiao discusses the evolution of AI frameworks, particularly PyTorch's rise as a dominant tool in machine learning. The conversation focuses on the challenges of making AI inference accessible and efficient for the broader developer community.
+
+25. **High Agency: How Paras Jain is building the future of AI Video creation**
+    Paras Jain discusses the evolving landscape of AI video generation, highlighting the challenges and advancements in diffusion models. The conversation delves into the methodologies driving Genmo's rapid growth and the transformational potential of AI in video content creation.
+
+26. **High Agency: From PyTorch to Fireworks: Lin Qiao on Building AI Infrastructure**
+    Lin Qiao shares insights from her experiences at Meta, outlining the lessons learned during the development of PyTorch. The discussion focuses on the evolution of AI frameworks and the challenges of making AI inference accessible and efficient for the broader developer community.
+
+27. **Gradient Dissent: Harnessing AI for legal practice with CoCounsel's Jake Heller**
+    Jake Heller discusses the evolution of Case Text and the pivotal role that GPT technology has played in enhancing legal research. The conversation sheds light on the broader implications of AI in the legal industry and how it influences the future of legal education.
+
+28. **Gradient Dissent: From startup to $1.2B with Lambda's Stephen Balaban**
+    Stephen Balaban discusses Lambda Labs' evolution from a face recognition software company to a leading player in AI hardware and cloud services. The conversation delves into Lambda's growth, its pivot from face recognition software to a leading provider of GPU-based solutions, and the current state of AI hardware markets.
+
+29. **Gradient Dissent: Reinventing AI Agents with Imbue CEO Kanjun Qiu**
+    Kanjun Qiu discusses IMB's unique approach to AI, which emphasizes the creation of agents that communicate naturally and write code. The conversation centers on the vision of empowering users by enabling computers to perform tasks autonomously.
+
+30. **Gradient Dissent: Launching the fastest AI inference solution with Cerebras Systems CEO Andrew Feldman**
+    Andrew Feldman discusses Cerebras Systems' advancements in inference capabilities, claiming to be the fastest, most accurate, and cheapest solution available on the market. The conversation revolves around the complexities of AI chip design, the challenges of training versus inference, and the current state of AI integration in various industries.
+
+31. **No Priors Ep. 72 | With Sarah Guo and Elad Gil**
+    A discussion critiquing a recent Goldman Sachs report predicting the stagnation of AI advancements. The hosts aim to deconstruct claims made by prominent figures interviewed in the report and provide counter-arguments about the capabilities and future potential of AI technology.
+
+32. **No Priors Ep. 73 | With Airtable co-founder and CEO Howie Liu**
+    Howie Liu discusses the transformative journey of Airtable, a platform that effortlessly crosses the realms of spreadsheets and app-building. The conversation focuses on how Airtable has recently integrated AI features within its platform and the broader implications of low-code and no-code AI tools within enterprise applications.
+
+33. **No Priors Ep. 74 | With Google DeepMind VP of Research Oriol Vinyals**
+    Oriol Vinyals shares insights into the rapid advancements and organizational shifts within AI research at Google DeepMind over the past year, particularly focusing on the Gemini project. The discussion delves deep into the progress in large language models (LLMs) and the potential future of AI in enhancing technology and its applications.
+
+34. **No Priors Ep. 75 | With Co-Founder and CEO of Brex Pedro Franceschi**
+    Pedro Franceschi discusses the implementation of Artificial Intelligence to enhance product offerings for Brex's enterprise clients. The conversation focuses on how AI is influencing the tech landscape, especially in finance management, and Brex's go-to-market strategies.
+
+35. **No Priors Ep. 76 | With Ramp Co-Founders Eric Glyman and Karim Atiyeh**
+    Eric Glyman and Karim Atiyeh discuss Ramp's focus on harnessing AI and systems thinking to revolutionize financial services. The conversation centers on the evolution of Ramp and the advantages of using AI in finance.
+
+36. **No Priors Ep. 77 | With Foundry CEO and Founder Jared Quincy Davis**
+    Jared Quincy Davis discusses the innovative shifts in AI computing infrastructure and Foundry's mission to democratize access to AI computational power. The conversation revolves around the role of GPUs in the evolving landscape of cloud computing and the necessity for rethinking existing computational frameworks.
+
+37. **No Priors Ep. 78 | With AWS CEO Matt Garman**
+    Matt Garman discusses the transformative journey of Amazon Web Services (AWS) from its inception to its current status as a $100 billion powerhouse. The conversation dives into groundbreaking developments in cloud computing, its impact on businesses, and the future potential of generative AI.
 # 1 Latent Space: The Winds of AI Winter (Q2 Four Wars of the AI Stack Recap)
 
 ## 1. Introduction
