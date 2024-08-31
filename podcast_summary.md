@@ -468,45 +468,119 @@ In this episode of The Cognitive Revolution, hosts Nathan Lens and Eric Torberg 
 ## Concise Summary
 
 In this engaging episode of The Cognitive Revolution, hosts Nathan Lens and Eric Torberg converse with Dan Balam and Tom McGrath, co-founders of Goodfire, about the essential field of AI interpretability. With a focus on mechanistic interpretability, the conversation explores the significant advancements made by techniques such as sparse autoencoders, which allow researchers to uncover the intricate features within AI systems. Addressing challenges like polys semanticity and the scaling of models, Dan and Tom discuss the various methodologies employed to enhance interpretability, such as activation patching and causal tracing. Furthermore, their vision includes developing user-friendly interfaces that facilitate seamless interaction with these complex systems. With $7 million in funding to drive their mission, they aim to bridge the gap between machine learning and real-world applications, providing an accessible framework for interpreting both language models and scientific data. The episode concludes with a call to the community to engage in the evolving dialogue surrounding interpretability, establishing Goodfire as a pivotal player in this transformative space.
+
 # 12 The Cognitive Revolution: AI Work for You - now with GPT-4o Fine-Tuning!
 
 ## Introduction
-In this episode of "The Cognitive Revolution," hosts Nathan Lens and Eric Torberg delve into the cutting-edge developments in AI with a focus on automation. The discussion is primed by the recent launch of GPT-4 fine-tuning by OpenAI. The episode features insights from Nathan’s presentation at The Adapta Summit in São Paulo, Brazil, where he shared an AI automation framework developed over three years. The key theme centers around practical methods businesses can employ to leverage AI through task automation and the optimization of AI performance to maximize productivity and efficiency. Nathan emphasizes the importance of understanding intelligence and work to successfully integrate AI into various processes.
+
+This podcast episode, part of the Cognitive Revolution series, features Nathan Labenz presenting a comprehensive guide to AI automation. The presentation, titled "AI Automation: Making AI Work for You," was given in August 2024, reflecting the latest developments in AI technology. Labenz, an AI advisor and founder with experience in GPT-4 red teaming and Llama safety review, draws from his extensive background to provide insights into implementing AI automation in businesses. The talk is structured around three main sections: foundational concepts, a three-step method for AI automation, and additional considerations for implementation. Labenz emphasizes the potential for AI to revolutionize routine tasks across various industries, offering significant benefits in terms of efficiency, cost savings, and scalability.
 
 ## Key Points
 
-1. **Defining Work and Intelligence**:
-   Nathan starts by defining "work" as the transformation of inputs into outputs, and "intelligence" as the ability to do this without precise instructions. These foundational definitions are crucial for contextualizing where AI can add value and where traditional coding methods might suffice.
+1. **Defining Work and Intelligence in the Context of AI**
 
-2. **Choosing Tasks for AI Automation**:
-   He outlines a systematic approach to select tasks that are suitable for AI automation. Ideal tasks include repetitive, routine activities that require intelligence but cannot be easily codified through deterministic methods. Non-repetitive, high-sensitivity tasks should be avoided initially.
+   Labenz establishes foundational definitions for work and intelligence. He defines work as "the transformation of inputs into outputs," and intelligence as "the ability to do work without precise instructions." These definitions set the stage for understanding where AI can be most effectively applied. The speaker uses the MNIST dataset of handwritten digits to illustrate how tasks that are easy for humans can be challenging for traditional programming but manageable for AI. This example underscores the unique capabilities of AI in handling tasks that require a form of intelligence rather than explicit rule-based programming. Notably, AI achieves 99.7% accuracy in digit recognition, compared to only 14% accuracy for traditional code-based approaches.
 
-3. **Understanding the Work Process**: 
-   A critical component of AI automation is understanding the work that is to be delegated to the AI. This involves engaging with team members to break down their tasks step-by-step to document the implicit knowledge that should become explicit for successful AI implementation.
+2. **Current State of AI Capabilities**
 
-4. **Gold Standard Examples**: 
-   To train an AI effectively, Nathan emphasizes the need for at least ten gold standard examples that capture the input, output, and reasoning process behind task execution. These examples serve as the foundation for the AI to learn and improve its performance.
+   Labenz highlights that state-of-the-art AIs are approaching or surpassing human expert performance on many routine tasks. He cites a specific example of an "AI Doctor" that outperforms human doctors in medical diagnosis, as demonstrated in a study titled "Towards Conversational Diagnostic AI." The speaker emphasizes that these advancements are not just in research but are being applied in real-world scenarios. He suggests that AI can likely handle routine work in many business contexts, encouraging listeners to consider how AI might be applied in their own operations.
 
-5. **Optimizing AI Performance**:
-   Nathan introduces three main techniques for AI optimization: prompt engineering, retrieval-augmented generation (RAG), and fine-tuning. He details how each method helps enhance AI responses and improves overall task performance.
+3. **Three Ways to Work with AI**
 
-6. **Iterative Testing and Fine-Tuning**:
-   Following the establishment of baseline gold standard examples, Nathan discusses the importance of iterative testing and fine-tuning. Businesses must be prepared to adapt their approach based on the AI's performance, which often requires substantial adjustments to the examples used for training.
+   The presentation outlines three primary modes of working with AI:
+   1. Chat: Real-time interaction, exemplified by tools like ChatGPT and Copilot.
+   2. Agents: On-the-fly delegation for small projects, though noted as the "Missing Middle" as of July 2024.
+   3. Automation: Background/batch processing for repetitive tasks, which Labenz identifies as having "unrealized potential."
+   
+   Labenz focuses on the automation aspect, suggesting it's an area where many businesses could benefit but haven't fully explored.
 
-7. **Importance of Feedback Loops**:
-   Establishing feedback loops is essential for monitoring AI performance. Regularly reviewing outputs allows for the identification of edge cases and areas needing improvement, contributing to a more robust AI system.
+4. **Choosing Appropriate Tasks for AI Automation**
 
-8. **Balancing Performance and Investment**:
-   The podcast stresses that while it might be tempting to optimize performance aggressively, balancing the investment of time and resources is vital. Prioritizing improvements based on the potential return on investment can lead to better decision-making.
+   Labenz provides a comprehensive list of criteria for good AI automation targets:
+   1. Intelligence required (not purely procedural)
+   2. Task-sized (not job-sized)
+   3. Slow/expensive currently
+   4. Repetitive
+   5. Explicit context available
+   6. Clear "gold standard" examples exist
+   7. Low risk
+   8. Fast feedback possible
+   9. Not enjoyable for humans
+   10. Within AI's current capabilities
 
-9. **Emergence of Low-Code and No-Code Solutions**:
-   Nathan highlights the efficiency of no-code solutions for businesses looking to automate tasks without deep technical expertise. These platforms enable rapid implementation and adjustments, making it easier for teams to manage automation initiatives.
+   He contrasts these with characteristics of bad targets for AI, emphasizing the importance of careful task selection.
 
-10. **Future-Proofing AI Implementations**:
-    As technology evolves rapidly, Nathan advises businesses to focus on developing solutions that are adaptable to changes rather than striving for perfect specifications. This approach allows companies to remain flexible and economically viable as AI capabilities advance.
+5. **Understanding AI's Unique Performance Profile**
+
+   Labenz introduces the concept of "AI = Alien Intelligence," illustrating how AI performance differs from human performance across various tasks. He provides a detailed comparison of AI vs. human expert performance across several traits:
+   - Breadth: AI excels (+++) vs. humans (+)
+   - Depth: Humans still lead (+++) vs. AI (++)
+   - Insight: Humans significantly ahead (+++) vs. AI (+)
+   - Speed, Cost, Availability, Scalability: AI has major advantages
+   - Context: Humans better, but AI improving
+   - Memory: Initially human advantage, but AI rapidly improving
+
+   This comparison helps set realistic expectations for AI performance and guides task selection.
+
+6. **The Process of Understanding and Documenting Work for AI Automation**
+
+   Labenz stresses the importance of breaking down tasks step-by-step and identifying the "black boxes of intelligence" within processes. He recommends a detailed approach to understanding work:
+   1. Start with a high-level process map
+   2. Break down each step, asking "How do you think about it?"
+   3. Capture all considerations, even those that might seem obvious to humans
+   
+   The goal is to make implicit knowledge explicit, providing the AI with all necessary context to perform the task effectively.
+
+7. **Creating Gold Standard Examples for AI Training**
+
+   The presentation emphasizes the critical nature of creating high-quality, "gold standard" examples for AI training. Labenz recommends:
+   - Collecting at least 10 gold standard examples
+   - Including inputs, outputs, and detailed reasoning for each example
+   - Ensuring examples cover a range of scenarios, including edge cases
+
+   He states unequivocally that without these gold standard examples, successful automation is unlikely. This step is crucial for effectively teaching AI systems how to perform tasks.
+
+8. **Optimizing AI Performance: A Three-Step Approach**
+
+   Labenz outlines a three-step approach to optimizing AI performance:
+   1. Prompt Engineering: Crafting effective prompts that include role definition, task description, instructions, desired response format, and gold standard examples.
+   2. Retrieval Augmented Generation (RAG): Incorporating additional context at runtime to enhance AI performance.
+   3. Fine-tuning: Creating custom models tailored to specific tasks.
+
+   He provides a detailed best-practice prompt structure and discusses advanced prompt engineering techniques, including dynamic example selection, majority voting, and multi-model approaches.
+
+9. **The Fine-Tuning Process and Performance Evaluation**
+
+   The presentation delves into the fine-tuning process, visualizing it as a loop:
+   1. Upload examples
+   2. Fine-tune model
+   3. Evaluate performance
+   4. If not satisfactory, collect more examples or address edge cases
+
+   Labenz recommends expecting about three rounds of core fine-tuning, plus additional rounds for edge cases. He emphasizes the importance of always looking at the data and comparing AI performance to human performance rather than perfection.
+
+10. **Implementation Strategies and Future Planning**
+
+    Labenz provides practical advice for implementing AI automation in businesses:
+    - Start with low-risk, high-value tasks
+    - Use no-code platforms when possible, as they're often superior to custom development for internal tools
+    - Plan for iteration and obsolescence, given the rapid pace of AI advancement
+    - Focus on maximizing performance first, then optimize for cost and speed
+    - Remember that each "9" of performance improvement typically requires 10x more work
+
+    He also touches on enterprise considerations and the importance of future planning, noting that AI capabilities are continuously improving, and solutions should be designed with flexibility and upgradability in mind.
 
 ## Concise Summary
-In the latest episode of "The Cognitive Revolution," Nathan Lens and Eric Torberg focus on AI automation, especially in the wake of OpenAI's GPT-4 fine-tuning launch. Nathan presents a comprehensive framework developed from his experiences, highlighting fundamental definitions of work and intelligence, which are crucial for comprehending where AI can be effectively utilized. The discussion revolves around the essential steps in AI automation: selecting appropriate tasks, deeply understanding the underlying work processes, gathering gold standard examples, and optimizing AI performance through iterative testing and fine-tuning. Regularly monitoring AI outputs, establishing feedback mechanisms, and adapting to the landscape of automation tools, such as low-code platforms, are emphasized as key strategies for successful AI integration. Nathan concludes by discussing the importance of future-proofing AI implementations to accommodate rapid advancements in technology while maximizing efficiency and productivity gains. Ultimately, he inspires listeners to embrace AI automation as a transformative opportunity for their businesses. 
+
+Nathan Labenz's presentation on "AI Automation: Making AI Work for You" offers a comprehensive framework for businesses looking to leverage AI for automating routine tasks. The talk covers the entire process from selecting appropriate tasks for automation to optimizing AI performance through prompt engineering, retrieval augmented generation, and fine-tuning. Labenz emphasizes the importance of deeply understanding and documenting work processes, creating high-quality training examples, and iteratively refining AI models. 
+
+He introduces the concept of AI as "Alien Intelligence," highlighting its unique performance profile compared to humans. This understanding guides the selection of tasks suitable for AI automation, focusing on areas where AI's strengths in breadth, speed, cost-efficiency, and scalability can be leveraged.
+
+The presentation provides a structured approach to AI automation, breaking it down into three main steps: choosing work for AI to do, understanding and documenting the work, and optimizing AI performance. Labenz stresses the critical nature of creating "gold standard" examples and the iterative process of fine-tuning AI models to achieve desired performance levels.
+
+Throughout the talk, Labenz balances technical insights with practical business considerations, addressing issues of cost, risk, and future-proofing. He advocates for starting with low-risk, high-value tasks and using no-code platforms when possible. The speaker also touches on the rapid pace of AI development, encouraging listeners to plan for ongoing technological advancements and design flexible, upgradable solutions.
+
+Overall, the presentation provides a valuable roadmap for businesses looking to implement AI automation effectively, while also offering insights into the current state and future potential of AI technology in the workplace. Labenz's approach emphasizes thoughtful task selection, thorough process understanding, and iterative improvement, positioning AI automation as a powerful tool for enhancing business efficiency and scalability.
 
 
 # 13 The Cognitive Revolution: Final Analysis on CA’s AI Bill SB 1047 with Nathan Calvin, Dean W. Ball, and Steve Newman
