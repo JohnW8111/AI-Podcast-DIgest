@@ -69,8 +69,8 @@
 23. **High Agency: AI's Memory Upgrade: Max Rumpf on how to build advanced RAG systems**
     Max Rump discusses how his company, Sid, is revolutionizing the utilization of AI in real-time tasks through innovative information retrieval techniques. The conversation centers around how Sid is simplifying complex processes for users in retrieval-augmented generation (RAG) systems.
 
-24. **High Agency: From PyTorch to Fireworks: Lin Qiao on Building AI Infrastructure**
-    Lin Qiao discusses the evolution of AI frameworks, particularly PyTorch's rise as a dominant tool in machine learning. The conversation focuses on the challenges of making AI inference accessible and efficient for the broader developer community.
+24. **High Agency: 24 High Agency:AI at Scale: Lessons from Gusto's $9.5 billion journey with Eddie Kim & Ali Rowgani
+    
 
 25. **High Agency: How Paras Jain is building the future of AI Video creation**
     Paras Jain discusses the evolving landscape of AI video generation, highlighting the challenges and advancements in diffusion models. The conversation delves into the methodologies driving Genmo's rapid growth and the transformational potential of AI in video content creation.
