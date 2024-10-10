@@ -1,4 +1,76 @@
+# September Podcast Episodes Table of Contents
 
+1. **Latent Space: The Ultimate Guide to Prompting - with Sander Schulhoff from LearnPrompting.org**
+   Sander Schulhoff discusses the intricacies of AI prompting, covering everything from foundational principles to advanced techniques. He shares insights from his journey in AI, emphasizing the importance of effective prompting for improved AI output.
+
+2. **Latent Space: Language Agents: From Reasoning to Acting — with Shunyu Yao of OpenAI, Harrison Chase of LangGraph**
+   The episode explores recent developments in AI agents with Harrison Chase and Shunu, focusing on advancements in language models and the significance of memory in AI. They discuss emerging methodologies for interactive agents and the importance of cognitive architectures.
+
+3. **Latent Space: Building AGI in Real Time (OpenAI Dev Day 2024)**
+   This episode covers OpenAI's Dev Day 2024, highlighting significant advancements in AI and machine learning. Key topics include the introduction of real-time voice API, multi-modal capabilities, and updates to existing models like GPT-4 and the new 01 model.
+
+4. **Latent Space: How AI is Changing Product Management I Raz Nussbaum (Gong AI)**
+   Raz Nussbaum discusses the transformative impact of generative AI on product management. He shares insights on building AI products efficiently and navigating the complexities of AI-driven product development.
+
+5. **High Agency: Building the Nervous System for AI with Russ d'Sa from LiveKit**
+   Russ d'Sa discusses LiveKit's role in building infrastructure for real-time audio and video communications. The conversation explores the transformative potential of AI in enhancing human creativity and the challenges of achieving seamless real-time communications.
+
+6. **High Agency: How AI is Changing Product Management I Raz Nussbaum (Gong AI)**
+   Raz Nussbaum shares insights on building AI products in a landscape heavily influenced by generative AI and Large Language Models. He emphasizes the importance of agility and collaboration in product management for AI-driven features.
+
+7. **High Agency: Ex-Coinbase CPO's Next Big Thing: AI Employees I Surojit Chatterjee**
+   Surojit Chatterjee discusses his new venture, Emma, which aims to create a universal AI employee for automating complex enterprise tasks. The conversation covers the potential of AI to transform workplace productivity and the challenges of integrating AI into existing company frameworks.
+
+8. **The Cognitive Revolution: AI Live Players: the Geopolitics & Strategic Dynamics of AI, with Samo Burja of Bismarck Analysis**
+   Samo Burja discusses the geopolitical implications of artificial intelligence, cautioning against oversimplified narratives of US-China competition. He emphasizes the need for continuous exploration in AI theory and the importance of industrial policy in chip supply.
+
+9. **The Cognitive Revolution - Red Teaming o1 Part 1/2–Automated Jailbreaking w/ Haize Labs' Leonard Tang, Aidan Ewart& Brian Huang**
+   This episode discusses OpenAI's new 01 and 01 Mini reasoning models, focusing on their capabilities and safety profile. The guests share insights from their red teaming efforts, highlighting the importance of rigorous testing processes.
+
+10. **The Cognitive Revolution - Red Teaming o1 Part 2/2– Detecting Deception with Marius Hobbhahn of Apollo Research**
+    The episode continues the discussion on OpenAI's 01 models, focusing on detecting deception and evaluating the models' safety features. Marius Hobbhahn shares insights from Apollo Research's red teaming efforts and discusses the implications of advanced AI reasoning abilities.
+
+11. **Cognitive Revolution - The Professional Network for AI Agents, with Agent.ai Engineering Lead Andrei Oprisan**
+    Andrei Oprisan discusses Agent.ai, a platform designed for AI agents that can intelligently assist in various tasks. The conversation explores the implications of AI agents for work, life, and society, emphasizing both the capabilities and limitations of current large language models.
+
+12. **The Cognitive Revolution: The Evolution Revolution: Scouting Frontiers in AI for Biology with Brian Hie**
+    Brian Hie discusses the intersection of artificial intelligence and biology, focusing on addressing major biological challenges. He shares insights from his recent research publications demonstrating the potential of AI in fields ranging from genomics to drug discovery.
+
+13. **The Cognitive Revolution: Anthropic's Responsible Scaling Policy, with Nick Joseph, from the 80,000 Hours Podcast**
+    Nick Joseph discusses Anthropic's Responsible Scaling Policy (RSP) governing AI advancements. He emphasizes the importance of safety measures in AI deployment and the need for transparency in communicating risks.
+
+14. **The Cognitive Revolution: Zapier's AI Revolution: From No-Code Pioneer to LLM Knowledge Worker**
+    Wade Foster discusses Zapier's evolution from a simple integration tool to an AI-powered automation service. He shares insights on Zapier's changing product strategy and innovative use cases for AI in workflow automation.
+
+15. **The Cognitive Revolution: Biologically Inspired AI Alignment: Exploring Neglected Approaches with AE Studio's Judd and Mike**
+    Judd Rosenblat and Mike Viana discuss AE Studio's innovative approaches to AI alignment, inspired by biological systems. They explore neglected approaches in tackling pressing alignment challenges and the importance of diverse perspectives in AI safety work.
+
+16. **No Priors: Ep. 79 | With Magic.dev CEO and Co-Founder Eric Steinberger**
+    Eric Steinberger discusses Magic.dev, a company focused on creating a unique software engineer co-pilot that functions like a colleague. He shares insights on AI architecture, context management, and the changing landscape of work in an AI-driven world.
+
+17. **No Priors: Ep. 80 | With Andrej Karpathy from OpenAI and Tesla**
+    Andrej Karpathy discusses the current state of AI research, advances in autonomous vehicle technologies, and potential future applications of AI. He shares insights from his experiences at OpenAI and Tesla, particularly in the field of autonomous driving.
+
+18. **No Priors: Ep. 81 | With Sarah Guo & Elad Gil**
+    The episode explores the current state of the Language Model market and the dynamics of AI company consolidation. The discussion covers recent developments in semiconductor technology and the implications of transactional dynamics in the AI industry.
+
+19. **No Priors: No Priors Ep. 82 | With CEO of Sierra Bret Taylor**
+    Bret Taylor discusses Sierra, his latest venture focusing on developing AI-driven company agents to revolutionize customer experiences. He provides insights into the current landscape of AI agents and their potential to transform business-customer interactions.
+
+20. **No Priors: Ep. 83 | With Rippling COO Matt MacInnis**
+    Matt MacInnis discusses Rippling's new AI-driven product, Talent Signal, which analyzes employee work output to generate performance management signals. He emphasizes the importance of creating an unbiased assessment process to mitigate issues arising from traditional performance evaluation methods.
+
+21. **No Priors: Ep. 84 | With Chair of the Federal Trade Commission Lina Khan**
+    Lina Khan discusses her role as FTC chair and her focus on antitrust enforcement in technology and healthcare markets. She shares insights on AI regulation, market structures that benefit consumers, and strategies for enhancing competition.
+
+22. **No Priors: Ep. 85 | CEO of Braintrust Ankur Goyal**
+    Ankur Goyal discusses Braintrust, an end-to-end enterprise platform designed to simplify AI application development. He shares insights on the challenges in AI development, particularly in evaluations and observability, and how Braintrust is addressing these needs.
+
+23. **Gradiant Descent: From no-code to AI-powered apps with Airtable's Howie Liu**
+    Howie Liu discusses the evolution of Airtable from a simple database tool to a robust app development platform. He shares insights on leveraging AI to enhance business workflows and operational processes.
+
+24. **Gradiant Descent: Elevating ML infrastructure with Modal Labs CEO Erik Bernhardsson**
+    Erik Bernhardsson discusses Modal Labs, a platform that simplifies the complexities of running machine learning models in the cloud. He shares insights on developer experience, the shift in user demographics, and the increasing adoption of AI technologies.
 # 1 Latent Space:The Ultimate Guide to Prompting - with Sander Schulhoff from LearnPrompting.org
 
 ## Introduction
