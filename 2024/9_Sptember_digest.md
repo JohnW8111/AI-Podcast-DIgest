@@ -293,47 +293,6 @@ In this episode of "High Agency," Rhib Khavib interviews S. Chhat, founder of Em
 
 Chhat elaborates on Emma's functionality, boasting a unique agentic structure that allows seamless integration with enterprise applications while emphasizing the importance of feedback in enhancing AI responses. The interview also contrasts Emma with existing tech players, asserting its position as a supplemental force in the AI landscape rather than a direct competitor. Ultimately, both Khavib and Chhat agree on the positive trajectory anticipated for AI in the workplace, highlighting the necessity for ongoing human involvement to harness AI's full potential. This episode sheds light on the challenges and opportunities that arise in the relationship between AI and human employees, creating an insightful narrative about the future of work in the age of AI.
 
-# Podcast Summary: High Agency with James U of Pseudo Write
-
-## 1. Introduction
-High Agency, hosted by Rah Habib, is a podcast dedicated to exploring the intersection of artificial intelligence and human creativity. The key speaker in this episode is James U, the founder of Pseudo Write, an innovative AI company that has developed a writing assistant specifically designed for novelists and long-form storytellers. The main topic of discussion centers around the capabilities of Pseudo Write, how AI can assist creative writers, the challenges faced by writers in the digital age, and the importance of proper training and ethical considerations in AI deployment. The context of the discussion stems from the evolving landscape of AI tools that aid creative processes while raising questions about authorship, compensation, and future implications for creative industries.
-
-## 2. Key Points
-
-### 1. Pseudo Write as a Writing Assistant
-James U describes Pseudo Write as a collaborative tool for novelists, akin to a writer's room. It helps individuals overcome writer's block by providing inspiration and creative input. He emphasizes that writers can use AI to reflect on their work, drawing parallels between using AI and traditional brainstorming methods.
-
-### 2. The Misconceptions of AI in Creative Writing
-In discussing early skepticism around AI's role in writing, James recalls that many creative writers initially balked at the idea of an AI assistant. They feared loss of authenticity and uniqueness in their work. However, he notes that as writers started interacting with the tool, their perceptions changed, leading to greater acceptance.
-
-### 3. User Demographics and Engagement
-Currently, Pseudo Write has over 15,000 paying members, the majority of whom are novelists. James mentions the diverse backgrounds of these writers, from self-published authors to those with traditional publishing contracts. The steady growth over the past few years demonstrates increasing engagement and acceptance of AI writing tools.
-
-### 4. Engagement Features and User Interface
-James outlines the innovative user interface of Pseudo Write, comparing it to text editing programs like Google Docs. The platform provides various AI functions for drafting, rewriting, and world-building to support writers in a structured way, ensuring they retain control over their creative process.
-
-### 5. Development Journey and Prompt Engineering
-Pseudo Write began with basic functions and evolved through user feedback. James discusses their iterative process of developing features such as "Wormhole" for generating suggestions and the "Story Bible" feature for character and plot tracking. He notes the importance of prompt engineering in enhancing AI responses to be more useful for writers.
-
-### 6. Learning from User Behavior
-James explains the methods employed to gauge the effectiveness of new features, which include tracking user engagement and retention rates post-feature introduction. This data-driven approach allows the team to refine their offerings based on active use and positive feedback.
-
-### 7. The Challenge of Story Coherence
-Coherence in long-form narratives presents an ongoing challenge. While tools like "Story Bible" help maintain character and plot consistency, there remains the need for human oversight to ensure narrative integrity, especially as AI-generated segments can diverge from earlier established plot points.
-
-### 8. Ethical Considerations and Compensation
-The podcast touches on the ethical implications surrounding AI-generated content, including compensation models for authors whose works inform AI training. James expresses his belief in the necessity for authors to be compensated while acknowledging the complexity of defining the structure for such royalties.
-
-### 9. AI's Impact on the Future of Creative Work
-James reflects on the broader implications of AI in creative fields, anticipating that the integration of AI will enhance creativity rather than replace it. He highlights a potential shift toward more collaborative creative processes involving AI as an assistant rather than a replacement.
-
-### 10. Community Building as a Core Value
-Finally, James emphasizes the importance of cultivating a community around Pseudo Write. By engaging writers and providing them opportunities to share best practices and experiences, the company is creating a supportive environment that enhances user experience and fosters creativity.
-
-## 3. Concise Summary
-In this episode of High Agency, Rah Habib speaks with James U, founder of Pseudo Write, an AI writing assistant designed for novelists. They explore the benefits of AI in creative writing, emphasizing collaboration over replacement, as writers increasingly integrate these tools into their processes. The podcast focuses on various aspects of Pseudo Write, including its user-friendly interface, effective features like "Wormhole" and "Story Bible," and the iterative development that responds to user feedback. 
-
-James discusses the ethical implications of AI in creative work, advocating for author compensation while recognizing that the evolving role of AI might enhance rather than negate traditional writing processes. By creating a community of users, Pseudo Write encourages shared experiences and support among writers navigating the complexities of AI-assisted creativity. The conversation culminates in a broader reflection on the future of writing, noting the potential for enriching literary experiences through responsible AI deployment.
 
 # 8 The Cognitive Revolution :AI Live Players: the Geopolitics & Strategic Dynamics of AI, with Samo Burja of Bismarck Analysis
 
@@ -469,10 +428,10 @@ As the podcast concludes, the guests call for ongoing research and community col
 
 # 11.Cognitive Revolution - The Professional Network for AI Agents, with Agent.ai Engineering Lead Andrei Oprisan
 
-## Introduction (100-150 words)
+## Introduction 
 In this episode of the *Cognitive Revolution*, hosts Nathan and Eric delve into the transformative future of artificial intelligence with Andre Oprisan, the engineering lead at Agent AI, an emerging platform designed for AI agents. With AI quickly evolving from mere tools to semi-autonomous systems that can intelligently assist in various tasks, the conversation explores implications for work, life, and society. The episode brings a high level of technical understanding while emphasizing a thoughtful approach to integrating AI agents into workflows and everyday tasks. The discussion encompasses both the capabilities and limitations of current large language models, paving the way for understanding how AI agents fit into our professional and personal lives.
 
-## Key Points (10 points, 100-150 words each)
+## Key Points 
 
 1. **Definition of AI Agents**: Oprisan defines AI agents as semi-autonomous systems that perform tasks or make decisions on behalf of users. He emphasizes the importance of creating agents with narrow, clearly defined tasks to reduce the risk of failure, suggesting that the future will hold many specialized agents instead of overly ambitious, general-purpose AI.
 
@@ -500,9 +459,8 @@ In the latest episode of the *Cognitive Revolution*, Nathan and Eric engage with
 The conversation dives into the practical aspects of making AI beneficial for businesses while maintaining safety and privacy through robust data protection measures. Oprisan believes that AI will augment rather than replace jobs, allowing workers to focus on higher-level problem-solving. The episode highlights the need for ongoing advancements in AI capabilities and encourages a balanced approach to embracing technology, signaling an optimistic future where human and AI collaboration shapes the workplace positively. 
 
 Listeners are left with a deeper understanding of how AI agents can efficiently transform workflows, invigorating the potential for innovation across industries.
-``` 
 
-Note: The word counts for each section have been respected within the given ranges, aiming for thoroughness and clarity in encapsulating the podcast's key ideas, discussions, and implications for AI technologies.# Podcast Summary: The Cognitive Revolution Episode with Professor Brian He
+# 12 The Cognitive Revolution:The Evolution Revolution: Scouting Frontiers in AI for Biology with Brian Hie
 
 ## Introduction
 In this episode of **The Cognitive Revolution**, host Nathan Lentz interviews **Professor Brian He**, an Assistant Professor at Stanford and Innovation Investigator at the ARK Institute. This podcast episode delves into the evolving intersection of artificial intelligence and biology, particularly in addressing major biological challenges. The discussion highlights how AI technologies are transforming biological research methods and applications. Brian shares insights from three of his recent research publications that demonstrate the significant potential of AI in fields ranging from genomics to drug discovery. Together, they explore AI's role in understanding biological systems, the mechanistic design of AI architectures, and the applications of AI in optimizing antibody complexes, ultimately painting a picture of how these advancements could reshape work, health, and society in the near future.
@@ -542,7 +500,9 @@ In this episode of **The Cognitive Revolution**, host Nathan Lentz interviews **
 ## Concise Summary
 The Cognitive Revolution episode featuring Professor Brian He explores the transformative impact of artificial intelligence on biological research. Brian elucidates two grand challenges in biology: understanding complex causal interactions and designing targeted interventions. Through a discussion of three major research publications, he highlights innovative efforts in mechanistic architectural design, gene essentiality predictions with the EVO model, and the development of antibody complexes capable of significantly improved binding through AI. Notably, Brian emphasizes the importance of obtaining interventional data to elucidate causal mechanisms in biological systems and the need for rigorous interpretability methods to explain AI model predictions.
 
-While addressing concerns regarding biosecurity, particularly in light of AI's dual-use potential, he maintains an optimistic view that such technologies may be harnessed to produce new, more effective therapeutics. Brian's insights underline the importance of collaborative approaches in research environments like the ARK Institute, where interdisciplinary engagement fosters scientific advancement and provides a pathway to solve some of the most pressing challenges in biology and medicine. Ultimately, the episode paints an exciting portrait of the opportunities at the intersection of AI and biology, showcasing how these technologies may reshape drug discovery and biological research in the years to come.# Podcast Summary: "Cognitive Revolution" (Crosspost with the 80,000 Hours Podcast) featuring Nick Joseph
+While addressing concerns regarding biosecurity, particularly in light of AI's dual-use potential, he maintains an optimistic view that such technologies may be harnessed to produce new, more effective therapeutics. Brian's insights underline the importance of collaborative approaches in research environments like the ARK Institute, where interdisciplinary engagement fosters scientific advancement and provides a pathway to solve some of the most pressing challenges in biology and medicine. Ultimately, the episode paints an exciting portrait of the opportunities at the intersection of AI and biology, showcasing how these technologies may reshape drug discovery and biological research in the years to come.
+
+## 13 The Cognitive Revolution:Anthropic's Responsible Scaling Policy, with Nick Joseph, from the 80,000 Hours Podcast
 
 ## 1. Introduction (100-150 words):
 The latest episode of the Cognitive Revolution podcast sees host Nathan Lens, joined by co-host Eric Torberg, interviewing Nick Joseph, head of model pre-training at Anthropic. This episode is a cross-post from the 80,000 Hours podcast, where Rob Wiblin converses with Nick about the nuances of the Responsible Scaling Policy (RSP) governing AI advancements at Anthropic. Nick discusses the importance of safety measures in AI deployment, the continuous scaling of machine learning models, and the transparency required from AI companies in communicating risks. The conversation dives into AI safety, career advice for listeners interested in the field, and the overall context of ongoing discussions around the ethical implications of rapidly advancing AI technologies.
@@ -582,7 +542,9 @@ Addressing skepticism in AI safety, Nick believes in building a culture of trust
 ## 3. Concise Summary (200-250 words):
 In this episode of the Cognitive Revolution podcast, Nick Joseph of Anthropic discusses the company's Responsible Scaling Policy (RSP), aimed at balancing AI innovation with safety measures. He explains how the RSP includes rigorous evaluation metrics to assess AI capabilities and risks while continually adapting to new advancements. Nick emphasizes the growing significance of software engineering skills in AI development and Anthropic’s collaborative culture, which encourages pair programming and knowledge sharing among team members. He argues that internal transparency and a commitment to ethical AI practices are crucial, and that recruiting from diverse backgrounds can foster this commitment. Nick also highlights the importance of proactive community engagement, advocating for open research to inspire broader adoption of safety measures across the industry. Overall, he encourages aspiring AI professionals to pursue direct, hands-on experience to build essential skills and contribute meaningfully to the field of AI safety. While Nick acknowledges the challenges of operating at the cutting edge of AI technology, he maintains an optimistic outlook on the potential to guide the development of AI responsibly and successfully. 
 
-By providing a snapshot of the academy's responsibilities towards advancing AI, Nick Joseph illustrates the interplay of technological progress and ethical considerations, inviting listeners to think critically about their future roles in shaping the AI landscape.# Cognitive Revolution Podcast Summary
+By providing a snapshot of the academy's responsibilities towards advancing AI, Nick Joseph illustrates the interplay of technological progress and ethical considerations, inviting listeners to think critically about their future roles in shaping the AI landscape.
+
+# 14 The Cognitive Revolution:Zapier's AI Revolution: From No-Code Pioneer to LLM Knowledge Worker
 
 ## Introduction
 
@@ -632,7 +594,9 @@ Wade shares compelling use cases, such as the creation of a "voice-to-invoice" t
 
 While there is ongoing debate about the pace of AI's progress and its journey toward AGI, Wade remains optimistic about the current advancements in AI tools and their application in real-world scenarios. With a forward-looking approach, Zapier aims to continue redefining the automation landscape, ultimately empowering users to bridge the gap between simple integrations and comprehensive solutions that harness the potential of AI effectively. As the company prepares for future innovations, it remains committed to its core mission of enabling users to simplify and enhance their workflows through intelligent automation. 
 
-The podcast provides valuable insights into the intersection of AI technology and practical business applications, making it a must-listen for anyone interested in the future of work.# Podcast Summary: The Cognitive Revolution with Jud Rosenblat and Mike Viana
+The podcast provides valuable insights into the intersection of AI technology and practical business applications, making it a must-listen for anyone interested in the future of work.
+
+# 15. The Cognitive Revolution:Biologically Inspired AI Alignment: Exploring Neglected Approaches with AE Studio's Judd and Mike
 
 ## 1. Introduction
 
@@ -678,7 +642,9 @@ Rosenblat and Viana explain their groundbreaking work in self-modeling and self-
 
 In addition to technical discussion, the episode emphasizes the need for collaboration, diverse talent pools, and engagement with policymakers to foster a constructive dialogue about AI safety. Ultimately, the conversation reinforces the importance of embracing innovative, neglected approaches and engaging a broader audience in AI safety work for a sustainable future amid rapid technological change. 
 
-Both speakers encourage listeners to consider the urgent need for new ideas in AI alignment, recognizing the necessity of pushing boundaries and rethinking the approaches to shape intelligent and safe AI systems.# Podcast Summary: No Priors Episode with Eric Steinberger
+Both speakers encourage listeners to consider the urgent need for new ideas in AI alignment, recognizing the necessity of pushing boundaries and rethinking the approaches to shape intelligent and safe AI systems.
+
+# 16 No Priors: Ep. 79 | With Magic.dev CEO and Co-Founder Eric Steinberger
 
 ## Introduction
 
@@ -716,7 +682,9 @@ Steinberger outlines their unique architectural choices, which stress the signif
 
 Eric also presents the iterative nature of AGI development as a route to both technological advancement and ethical considerations, indicating the necessity for companies like Magic to address safety measures actively as they progress. He highlights evidence of a changing workforce and implies that understanding new value metrics will be important in the transition to an AI-dominant economic landscape. 
 
-Overall, the conversation spans technical, cultural, and financial aspects of AI technology, elucidating how Magic is poised to transform the software engineering landscape through generative AI. It presents a thought-provoking outlook on the responsibilities and realities that such advancements entail, leaving listeners with critical questions about the future of work, ethics, and societal norms in an AI-driven era.# Podcast Summary: No Priors - Episode Featuring Andre Karpathy
+Overall, the conversation spans technical, cultural, and financial aspects of AI technology, elucidating how Magic is poised to transform the software engineering landscape through generative AI. It presents a thought-provoking outlook on the responsibilities and realities that such advancements entail, leaving listeners with critical questions about the future of work, ethics, and societal norms in an AI-driven era.
+
+# 17 No Priors:Ep. 80 | With Andrej Karpathy from OpenAI and Tesla
 
 ## Introduction
 In this episode of **No Priors**, host(s) have an engaging conversation with **Andre Karpathy**, a noteworthy figure in the AI field with a rich history that includes being an early team member at OpenAI and leading the Autopilot initiative at Tesla. Karpathy's current focus is on applying principles of AI to education, an area poised for growth and innovation. The discussion centers on the current state of AI research, the advances in autonomous vehicle technologies, and the potential future applications of AI, especially within education. The dynamic conversation touches upon technical aspects, philosophical considerations, and the implications of AI in everyday life.
@@ -759,7 +727,8 @@ In this episode of **No Priors**, Andre Karpathy, an influential AI figure, elab
 The discussion further explores the need for AI in education, suggesting that AI can empower learners through personalized tutoring tailored to individual needs. Karpathy envisions a future where humans and AI work symbiotically, stressing the importance of maintaining cognitive skills even as we integrate technology into our daily lives. As both fields of autonomous vehicles and education evolve with AI, the overarching narrative underscores a constant interplay between technological capabilities and human adaptability.
 
 Through a blend of technical insights, philosophical viewpoints, and future predictions, Karpathy inspires a hopeful outlook on the role of AI in enhancing human potential and reshaping societal structures around learning and cognitive efficiency.```markdown
-# Podcast Summary: No Priors Episode on AI Consolidation and Semiconductor Trends
+
+# 18 No Priors:p. 81 | With Sarah Guo & Elad Gil
 
 ## 1. Introduction 
 
@@ -802,8 +771,8 @@ Finally, the host paints a picture of an evolving intersection between AI innova
 This episode of the "No Priors" podcast explores critical dynamics within the AI market, focusing primarily on trends in consolidation, the impacts of large-scale capital investments, and the evolving landscape of semiconductor technology. The hosts, Lot and AOT, engage in a comprehensive conversation about the implications of the dwindling availability of venture capital for AI companies, emphasizing that only players partnered with major tech corporations or sovereign funds may remain viable as the field progresses. With an impressive 200x reduction in API costs over the last two years, competition has intensified, prompting companies to specialize rather than commoditize their offerings. The discussion also highlights the journey towards AGI and how evolving vertical applications will dictate the marketplace's future. 
 
 The conversation shifts to examining risks associated with potential legal and regulatory issues that AI firms must grapple with and compares historical cases as context for navigating these challenges. Semiconductors are identified as the backbone of AI infrastructure, leading to debates over whether emerging companies can challenge industry behemoths like AMD and NVIDIA in light of their recent acquisition strategies. Ultimately, the episode paints a picture of a rapidly changing AI ecosystem where the integration of advanced technology and innovation is continually propelling the industry forward.
-``````markdown
-# Podcast Summary: No Priors - The Future of AI Agents with Brett Taylor
+
+# 19 No Priors :No Priors Ep. 82 | With CEO of Sierra Bret Taylor
 
 ## Introduction
 In this episode of **No Priors**, host Clay Bore engages in a captivating conversation with **Brett Taylor**, a recognized technologist whose impressive career spans pivotal roles such as co-creating **Google Maps**, serving as **CTO of Facebook**, and being the **COO of Salesforce**. Taylor also discusses his latest venture, **Sierra**, which focuses on developing AI-driven company agents aimed at revolutionizing customer experiences. The dialogue delves into the current landscape of AI agents, the distinctions between various types of agents, and the potential for AI to transform how businesses interact with their consumers. As an industry veteran, Taylor provides key insights into the evolving role of AI in business, addressing both its opportunities and challenges.
@@ -844,8 +813,8 @@ In this episode of **No Priors**, host Clay Bore engages in a captivating conver
 In this episode of **No Priors**, Brett Taylor shares his rich insights on the evolving landscape of AI agents and their implications for customer experience. He provides a clear distinction between different types of AI agents: personal agents, persona-based agents, and company agents, highlighting their unique functionalities and the technological challenges associated with their deployment. Taylor is particularly optimistic about the transformative capacity of company agents—entities that can process customer queries and facilitate interactions, drastically reducing service costs and improving efficiencies. He encourages businesses to rethink their models, focusing on organic engagement rather than rigid rules, and stresses the importance of regular updates and adaptations based on customer behavior. As conversational interfaces gain traction, Taylor envisions a future where multimodal interactions redefine user experiences, making technology less intrusive while enhancing connectivity with brands. This optimistic outlook underscores the intersection of AI advancements with practical business needs, setting the stage for the next wave of innovation in customer interactions.
 
 The podcast elucidates how companies must embrace AI's potential and adapt to a digital landscape where customer agency and satisfaction are paramount, marking a significant shift in how organizations conduct their operations in an increasingly automated world.
-``````markdown
-# No Priors Podcast Summary
+`
+# 20 No Priors:Ep. 83 | With Rippling COO Matt MacInnis
 
 ## Introduction
 In this episode of the "No Priors" podcast, hosts Alad and Matt have a thought-provoking discussion with Matt McKinnis, COO of Rippling, a workforce management platform that integrates HR, IT, finance, and more. The focal point of the conversation is the launch of their new AI-driven product, Talent Signal, which analyzes employee work output to generate performance management signals. This potentially transformative tool aims to reshape how businesses evaluate and manage employee performance. McKinnis emphasizes the importance of creating an unbiased assessment process that can mitigate the issues arising from traditional methods of performance evaluation.
@@ -887,9 +856,9 @@ In this engaging episode of the "No Priors" podcast, hosts Alad and Matt speak w
 Talent Signal challenges traditional subjective performance assessments by focusing on concrete work product data, thereby reducing bias in the evaluation process. The product generates calibrated performance signals that help managers make informed decisions regarding employee development. McKinnis emphasizes the importance of building trust through an early access program that allows for gradual implementation and observation of the tool's effectiveness.
 
 While acknowledging the potential risks of AI in performance reviews, McKinnis argues that thoughtful engagement with technology will allow companies to enhance employee support and accountability. As Rippling continues to expand its offerings, the conversation highlights a broader trend in the industry towards the integration of AI in workplace evaluations, which McKinnis believes is an inevitable and necessary evolution as businesses seek new competitive advantages.
-```
-```markdown
-# Podcast Summary: No Priors with Lena Khan
+
+
+# 21 No Priors:Ep. 84 | With Chair of the Federal Trade Commission Lina Khan
 
 ## 1. Introduction
 In this episode of the "No Priors" podcast, hosts engage with Lena Khan, the youngest chairperson in the history of the Federal Trade Commission (FTC), appointed at the age of 32. The discussion spans her impactful tenure at the FTC, where she has tackled antitrust cases involving major tech players like Nvidia, Meta, and Microsoft, along with involvement in healthcare and pharmaceutical markets. Major topics include Khan's views on AI, market structures that benefit consumers, approaches to merger and acquisition (M&A) activities, and strategies for enhancing competition. This insightful dialogue provides a look into Khan's journey from business reporter to leading the FTC, emphasizing how government policy shapes market dynamics and consumer experiences.
@@ -928,8 +897,8 @@ In this episode of the "No Priors" podcast, hosts engage with Lena Khan, the you
 
 ## 3. Concise Summary
 In this episode of "No Priors," Lena Khan discusses her role as the chair of the FTC and her focus on antitrust enforcement in technology and healthcare markets. Khan's journey from business reporter to a leading governmental figure is marked by her critical insights into the implications of market consolidation on consumer choices and small businesses. She advocates for a comprehensive view of antitrust laws that encompass various market dynamics, moving beyond just consumer price considerations. With the rapid ascent of digital and AI technologies, Khan emphasizes the need for vigilance against monopolistic practices while also encouraging beneficial mergers that can drive innovation. She outlines several of the FTC's recent policies aimed at dismantling non-compete clauses that limit competition and entrepreneurial freedom. Reflecting on the challenges young professionals face within government, Khan underscores the importance of inclusive policies that enable diverse voices in shaping a more competitive and equitable market landscape. Overall, this episode offers an enlightening look at how policy, innovation, and competition intersect in today's economy, pushing listeners to consider the broader implications of antitrust practices.
-``````markdown
-# Podcast Summary: No Priors with Aner Goyal
+
+# 22 No Priors:Ep. 85 | CEO of Braintrust Ankur Goyal
 
 ## Introduction
 In this episode of the podcast "No Priors," Aner Goyal, co-founder and CEO of Brain Trust, engages in an insightful discussion about the challenges and advancements in AI application development. Aner brings a wealth of experience, having previously served as Vice President of Engineering at Single Store and founded Impira, an AI company acquired by Figma. The main focus of the episode revolves around Brain Trust, an end-to-end enterprise platform designed to simplify the process of building AI applications. With a recent fundraising of $36 million led by Andreessen Horowitz, Aner discusses the intricate problems in AI development, particularly evaluations and observability, and how Brain Trust is addressing these needs by iterating upon user feedback and evolving their product. The conversation delves into the current landscape of AI, client experiences, and the future of AI integration in enterprise workflows.
@@ -962,9 +931,8 @@ In the latest episode of "No Priors," host Aner Goyal, co-founder and CEO of Bra
 Key highlights include the recognition that while AI has considerably evolved with LLMs, many foundational issues persist in evaluations, prompting the need for sophisticated tools. The conversation spotlights starting with basic internal tools and evolving them based on customer feedback, hinting at a responsible and customer-centric approach to product development. 
 
 Aner emphasizes the utility of instruction versus fine-tuning and indicates a split toward leveraging proprietary models due to their reliability in production. Additionally, as enterprises adapt to AI, the conversation underscores a shift in how machine learning teams are structured and how traditional data infrastructures need to evolve to meet the demands of dynamic AI applications, including embedding and querying unstructured data. The podcast culminates in discussing the future of Brain Trust, hinting at expansive developments in observability and evaluations powered by AI, and foreshadowing a trajectory of improving how AI copes with its own complexities.
-```
-```markdown
-# Graded Descent Podcast Summary - Episode with Hoe Lou, CEO of Airtable
+
+# 23 Gradiant Descent:From no-code to AI-powered apps with Airtable’s Howie Liu
 
 ## Introduction
 In this episode of *Graded Descent*, host Lucas Bwal interviews Hoe Lou, the CEO of Airtable, an innovative app-building platform for businesses. Known for his insightful perspective on product and business, Hoe shares his journey from a college intern to the leader of a successful company. The discussion centers around the evolution of Airtable, its vision, and Hoe's insights on leveraging AI to enhance business workflows and operational processes. Listeners can expect an in-depth exploration of the intricate balance between product development, company growth, and the transformative power of artificial intelligence in today's business landscape.
@@ -1005,8 +973,8 @@ In this episode of *Graded Descent*, host Lucas Bwal interviews Hoe Lou, the CEO
 In the latest episode of *Graded Descent*, host Lucas Bwal engages with Hoe Lou, CEO of Airtable, who shares valuable insights into the platform's vision and the integration of AI into everyday business practices. Hoe reflects on the lessons learned during his time at Salesforce and how they influenced the creation of Airtable, emphasizing adaptability and user empowerment. The discussion highlights Airtable's transformation from a simple database tool to a robust app development platform that meets complex operational needs. Central to this evolution is the recent introduction of AI capabilities that simplify app building, allowing users to realize their visions without needing technical expertise.
 
 Additionally, Hoe elucidates the importance of market timing and iterative product development in establishing Airtable's success. He emphasizes maintaining a user-centric approach as AI continues to transform business processes while expressing caution about the current hype cycle surrounding AI and the necessity of delivering genuine value. This episode serves as an enlightening dialogue about the intersection of product, business, and technological innovation in the rapidly evolving landscape of AI-driven applications.
-``````markdown
-# Podcast Summary: Graded Descent with Eric Bernhardson
+
+# 24 Gradiant Descent:Elevating ML infrastructure with Modal Labs CEO Erik Bernhardsson
 
 ## Introduction (111 words)
 
@@ -1051,4 +1019,4 @@ In this episode of "Graded Descent," host Lucas Bwal interviews Eric Bernhardson
 The conversation progresses into Modal's focus on inference capabilities, witnessing a notable shift in market demands. Eric contrasts Modal with other competitors like Ray, elaborating on their cloud-hosted versus open-source strategies. Key themes also include challenges in scaling infrastructure, the importance of rapid feedback from customers, and a development philosophy focused on prioritization based on user needs. Additionally, the episode reflects on trade-offs in product design and API functionality, as well as the complexities of pricing in a competitive landscape.
 
 Eric's insights into AI regulation reveal his pragmatic approach, suggesting that necessary policies should develop in response to real-world challenges rather than hypothetical issues. Ultimately, this episode serves as an informative deep dive for listeners interested in the technical aspects of AI and machine learning infrastructure.
-```
+
