@@ -1,4 +1,4 @@
-
+# Table of Contents November Podcast Episodes 
 
 1. **Cognitive Revolution: AI Under Trump? The Stakes of 2024 w/ Samuel Hammond [Pt 1 of 2]**  
 Samuel Hammond and Joshua Steinman join Nathan Lens to discuss the implications of the 2024 U.S. election on AI policy, contrasting a Trump-led deregulation approach with a more ethical framework potentially championed by the Democrats. The conversation explores the geopolitical stakes, including the impact of China on AI policy and the risks of escalating tensions leading to an AI arms race.
