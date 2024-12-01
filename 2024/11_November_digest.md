@@ -1,4 +1,66 @@
 
+
+1. **Cognitive Revolution: AI Under Trump? The Stakes of 2024 w/ Samuel Hammond [Pt 1 of 2]**  
+Samuel Hammond and Joshua Steinman join Nathan Lens to discuss the implications of the 2024 U.S. election on AI policy, contrasting a Trump-led deregulation approach with a more ethical framework potentially championed by the Democrats. The conversation explores the geopolitical stakes, including the impact of China on AI policy and the risks of escalating tensions leading to an AI arms race.
+
+2. **Cognitive Revolution: AI Under Trump? The Stakes of 2024 w/ Joshua Steinman [Pt 2 of 2]**  
+This episode dives deeper into the effects of political leadership on AI, focusing on how Trump's volatile nature might influence AI policy and international relations, particularly with China. Guests emphasize the risks of AI militarization and highlight the need for ethical, trust-building governance in the AI sphere.
+
+3. **Cognitive Revolution: AGI Lab Transparency Requirements & Whistleblower Protections, with Dean W. Ball & Daniel Kokotajlo**  
+Dean W. Ball and Daniel Kokotajlo argue for increased transparency in AI development, proposing requirements like public model specifications, safety cases, and whistleblower protections to ensure responsible progress toward AGI. They stress the ethical imperative for openness to foster informed public policy and effective governance.
+
+4. **Cognitive Revolution: Zvi’s POV: Ilya’s SSI, OpenAI’s o1, Claude Computer Use, Trump’s election, and more**  
+Zvi Moshiewicz and Nathan Labenz discuss recent AI advancements, regulatory shifts, and political developments, examining the implications for AI safety and international relations. Zvi emphasizes a strategic approach to AI scaling and considers the complex impact of potential U.S. political shifts on AI innovation.
+
+5. **Cognitive Revolution: Everything You Wanted to Know About LLM Post-Training, with Nathan Lambert of Allen Institute for AI**  
+Nathan Lambert details advances in post-training techniques for LLMs through the lens of the Allen Institute's Tulu 3 project, advocating for incremental improvements and the value of transparency in AI development. He also discusses the need for agility in small research teams to navigate rapid AI evolution.
+
+6. **Cognitive Revolution: Designing the Future: Inside Canva's AI Strategy with John Milinovich, GenAI Product Lead at Canva**  
+John Milinovich shares Canva's approach to integrating AI, focusing on enhancing user creativity through automation and augmentation tools. The conversation explores Canva's embedded AI strategy, emphasizing the balance between making design intuitive and maintaining a seamless user experience.
+
+7. **Cognitive Revolution: Is an AI Arms Race Inevitable? with Robert Wright of Nonzero Newsletter & Podcast**  
+Bob Wright joins Nathan Levenson to discuss the growing integration of AI into military partnerships and its potential risks, particularly in the context of US-China relations. The episode critiques the hawkish attitudes developing around AI policy, arguing for collaboration over competition to mitigate the risks of an arms race.
+
+8. **Latent Space: In the Arena: How LMSys Changed LLM Benchmarking Forever**  
+The episode with LMSys founders Anastasios and Wein discusses the development of Chatbot Arena, a platform that democratizes LLM evaluation through community involvement. They highlight how community-driven evaluation replaces traditional static benchmarks, fostering more effective and dynamic model comparisons.
+
+9. **Latent Space: Agents @ Work: Dust.tt — with Stanislas Polu**  
+Stanislas Polu shares his journey from OpenAI to founding Dust, a startup focused on providing tools for AI agent deployment with a user-centric approach. Dust emphasizes infrastructure that allows non-technical users to create and operate AI agents through natural language interfaces.
+
+10. **Latent Space: Agents @ Work: Lindy.ai (with live demo!)**  
+Florant Crello introduces Lindy AI, a no-code platform for building personalized AI agents, emphasizing accessibility and user-friendly design. The episode highlights the evolution from prompt-based systems to more structured interfaces, allowing non-technical users to automate workflows efficiently.
+
+11. **Latent Space: Why Compound AI + Open Source Will Beat Closed AI — with Lin Qiao, CEO of Fireworks AI**  
+Lin Qiao from Fireworks AI discusses the transition from focusing solely on PyTorch to broader generative AI applications, emphasizing the role of compound AI in creating interconnected models for complex problem-solving. He highlights the company's open-source approach to foster community-driven innovation in AI development.
+
+12. **High Agency: The Principles for Building Excellent AI Features with Superhuman’s Lorilyn McCue**  
+Lorilyn McCue from Superhuman explores AI's role in enhancing email efficiency through features like "Write with AI" and "Instant Reply." The episode emphasizes the importance of seamless integration and prompt engineering in developing AI tools that align with user needs.
+
+13. **High Agency: How Replicate is Democratizing AI with Open-Source Resources**  
+Ben Fman of Replicate AI shares insights into making machine learning models accessible through APIs, enabling developers without ML expertise to deploy AI tools. The discussion focuses on democratizing AI capabilities and overcoming deployment challenges in practical, scalable ways.
+
+14. **No Priors Ep. 89 | With NVIDIA CEO Jensen Huang**  
+Jensen Huang of Nvidia discusses the company's role in the AI revolution, emphasizing the shift from CPU to GPU computing to enable large-scale AI capabilities. He introduces the concept of "hyper-Moore’s Law," predicting rapid advancements in computing power and AI's integration across industries.
+
+15. **No Priors Ep. 90 | With Google's DeepMind's AlphaProof Team**  
+Rishy Meta and Laurence Sarran discuss DeepMind's Alpha Proof, an AI system designed to tackle mathematical reasoning, including solving International Mathematical Olympiad problems. The conversation highlights the challenges of applying AI to abstract, cognitive tasks beyond typical game environments.
+
+16. **No Priors Ep. 91 | With Cohere Co-Founder and CEO Aidan Gomez**  
+Aidan Gomez, CEO of Cohere, explains the company's mission to provide robust language models for enterprise use, focusing on productivity rather than consumer chatbots. The episode explores the challenges of AI implementation, emphasizing trust, security, and effective prompt engineering to maximize AI's utility in business contexts.
+
+17. **Gradient Dissent: What’s the Path to AGI? A Conversation with Turing Co-Founder and CEO Jonathan Siddharth**  
+Jonathan Siddharth of Turing shares his vision for advancing AGI by providing code as training data for LLMs, emphasizing unique business models and integrating human intelligence into AI systems. He discusses the opportunities and challenges of deploying AI in enterprise environments to solve real-world problems.
+
+18. **Gradient Dissent: AI’s Breakthrough in Weather Forecasting with Brightband’s Julian Green**  
+Julian Green from Brightband discusses leveraging advanced AI to enhance weather forecasting, aiming to improve climate-related decision-making in the face of extreme weather events. He highlights AI's potential to outperform traditional models in accuracy and timeliness, while also noting the challenges in data availability, especially in low-resource regions.
+
+19. **Cognitive Revolution: Beyond Preference Alignment: Teaching AIs to Play Roles & Respect Norms, with Tan Zhi Xuan**  
+Tan Zhi Xuan critiques existing AI alignment paradigms and advocates for AI systems that learn to play normative roles rather than merely maximizing preferences. He discusses using Bayesian rule induction in Markov games to teach AI agents to understand and respect social norms, enhancing their ability to collaborate with humans ethically.
+
+20. **Latent Space: The New Claude 3.5 Sonnet, Computer Use, and Building SOTA Agents — with Erik Schluntz, Anthropic**  
+Erik Schluntz from Anthropic shares insights into the development of Claude 3.5, a model focused on improving human-computer interaction through enhanced coding capabilities and agent-based tasks. He also discusses Anthropic's 'Computer Use' feature, which enables the AI to autonomously perform complex software interactions, highlighting the broader implications for AI-assisted productivity.
+
+
 # 1.Cognitive Revolution:AI Under Trump? The Stakes of 2024 w/ Samuel Hammond [Pt 1 of 2]
 
 ## Introduction
